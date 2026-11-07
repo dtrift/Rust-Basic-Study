@@ -1,0 +1,9 @@
+[package]
+name = "adventure"
+version = "0.1.0"
+edition = "2021"
+
+# Смотри больше опций и их значений по адресу:
+# https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
